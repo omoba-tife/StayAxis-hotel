@@ -21,7 +21,7 @@ import gallery8 from "../assets/privatebeach.webp";
 import gallery9 from "../assets/eco-delux.jpg";
 import gallery10 from "../assets/spa.webp";
 import gallery11 from "../assets/conference.webp";
-import gallery12 from "../assets/Fitness.avif";
+import gallery12 from "../assets/fitness.avif";
 
 const GalleryPage = () => {
   const [selectedImage, setSelectedImage] = useState(null);
